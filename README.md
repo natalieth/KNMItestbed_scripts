@@ -1,1 +1,3 @@
-# KNMItestbed_scripts
+# KNMI Cabauw testbed scripts
+Scripts used to grab observations from various places and combine with HARMONIE (ASCII profiles) and LES runs over Cabauw.
+... more details ... 
