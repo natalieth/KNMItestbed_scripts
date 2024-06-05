@@ -1,0 +1,22 @@
+ ,var,name,long,units
+1,1,psurf,surface pressure,Pa
+2,11,ta,absolute temperature,K
+3,33,ua,u-componant wind,m s-1 
+4,34,va,v-componant wind,m s-1 
+5,51,hus,specific humidity,kg kg-1
+6,71,cfr,cloud fraction,kg kg-1
+7,181,rain,rain fraction,kg kg-1
+8,184,snow,snow fraction,kg kg-1
+9,201,grau,graupel fraction,kg kg-1
+10,76,clw,cloud liquid water,kg kg-1
+11,58,cli,cloud ice,kg kg-1
+12,200,tke,Turbulent kinetic energy,m2 s-2
+13,213,div,Vertical divergence,s-1
+14,67,pblh,Boundary layer height,m
+15,73,cll,low cloud cover,%
+16,74,clm,medium cloud cover,%
+17,75,clh,high cloud cover,%
+18,162,ugu,u-momentum of gusts from the model,m s-1
+19,163,vgu,v-momentum of gusts from the model,m s-1
+20,17,td,dew point temperature,K
+21,122,hfss,sensible heat flux,J m-2
